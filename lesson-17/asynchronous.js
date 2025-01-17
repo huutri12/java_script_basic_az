@@ -21,8 +21,9 @@ const readFileData = () => {
     fileData = ' Hữu Trí Dev'
     },3000)
 }
-// Thực thi hàm readFile
+// Thực thi hàm readFileData
 readFileData()
 
+// b4
 console.log('B4: Kết thúc quá trình đọc file dữ liệu thành công với data nhận được là: ', fileData)
 
